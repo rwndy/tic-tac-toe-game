@@ -16,7 +16,7 @@ A modular and type-safe Tic-Tac-Toe game with multiple features and themes.
 A. Develop app:
   1. Clone the repo
      ```sh
-     git clone https://github.com/your-username/tic-tac-toe-game.git
+     git clone https://github.com/rwndy/tic-tac-toe-game.git
      ```
   2. Install packages
      ```sh
